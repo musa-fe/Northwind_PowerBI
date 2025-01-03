@@ -20,7 +20,6 @@ SQL: For querying and preprocessing the data.
 Files
 powerBI_proje.pbix: Power BI report file.
 sample_data.sql (optional): Sample SQL script for the Northwind dataset.
-Screenshots: Example visuals from the dashboard (optional).
 How to Run the Project
 Install Power BI Desktop.
 Open the powerBI_proje.pbix file in Power BI.
